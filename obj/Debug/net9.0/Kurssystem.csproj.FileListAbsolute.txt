@@ -1,0 +1,14 @@
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/bin/Debug/net9.0/Kurssystem
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/bin/Debug/net9.0/Kurssystem.deps.json
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/bin/Debug/net9.0/Kurssystem.runtimeconfig.json
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/bin/Debug/net9.0/Kurssystem.dll
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/bin/Debug/net9.0/Kurssystem.pdb
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/Kurssystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/Kurssystem.AssemblyInfoInputs.cache
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/Kurssystem.AssemblyInfo.cs
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/Kurssystem.csproj.CoreCompileInputs.cache
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/Kurssystem.dll
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/refint/Kurssystem.dll
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/Kurssystem.pdb
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/Kurssystem.genruntimeconfig.cache
+/Users/njomzacelaj/Desktop/Lektioner/KurssystemProjekt/Kurssystem/obj/Debug/net9.0/ref/Kurssystem.dll
